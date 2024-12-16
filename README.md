@@ -1,5 +1,7 @@
 README for Simulation Code: NK Landscape and Agent-Based Modeling of Homogeneous Clustering
+
 Overview
+
 This code implements an agent-based model (ABM) designed to simulate collective problem-solving on an NK landscape. It explores how homogeneous clustering impacts the performance of a population divided into two subgroups: a majority and a minority. The model highlights the epistemic benefits and limitations of clustering in contexts marked by power and size asymmetries, as discussed in the associated research paper, "Challenging the Consensus: The Strategic Value of Homogeneous Groups in Collective Problem Solving."
 
 Key Features
