@@ -1,8 +1,8 @@
 ;;;;
 ;;;;
-;;;;    code created by
-;;;;    joshua becker
-;;;;    standing on the shoulders of giants
+;;;;    code created by Sahar Heydari Fard 
+;;;;    by modifying joshua becker's code for collective problem solving
+;;;;    
 ;;;;
 ;;;;
 
